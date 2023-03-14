@@ -1,0 +1,9 @@
+@inproceedings{REPO-229,
+    author = "Zhou, Tinghui and Brown, Matthew and Snavely, Noah and Lowe, David G.",
+    booktitle = "2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+    number = "",
+    pages = "6612-6619",
+    title = "{Unsupervised Learning of Depth and Ego-Motion from Video}",
+    volume = "",
+    year = "2017"
+}
